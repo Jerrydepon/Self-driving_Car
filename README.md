@@ -4,7 +4,7 @@ Link: https://github.com/udacity/self-driving-car <br />
 
 # Steps to see my training result
 ## 1. Clone my repository ##
-Use git clone to download my self-driving car repository into your directory. <br />
+Use git clone to download my self-driving car repository into your local directory. <br />
 
 ## 2. Download the necessary packages ##
 Make sure you have downloaded the packages: <br />
