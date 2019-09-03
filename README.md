@@ -5,6 +5,7 @@ Link: https://github.com/udacity/self-driving-car <br />
 # Steps to see my training result
 ## 1. Clone my repository ##
 Use git clone to download my self-driving car repository into your directory. <br />
+
 ## 2. Download the necessary packages ##
 Make sure you have downloaded the packages: <br />
 *flask <br />
@@ -14,20 +15,31 @@ Make sure you have downloaded the packages: <br />
 *keras <br />
 *pillow <br />
 *numpy <br />
-*opencv <br /> <br />
+*opencv 
 
 -------------------------
-(packages downloading step for virtual environment)
-conda create --name myenviron <br />
-conda activate myenviron <br />
-conda install -c anaconda flask <br />
-conda install -c conda-forge python-socketio <br />
-conda install -c conda-forge eventlet <br />
-conda install -c conda-forge tensorflow <br />
-conda install -c conda-forge keras <br />
-conda install -c anaconda pillow <br />
-conda install -c anaconda numpy <br />
-conda install -c conda-forge opencv
+(example: packages downloading step for virtual environment)
+-- conda create --name myenviron <br />
+-- conda activate myenviron <br />
+-- conda install -c anaconda flask <br />
+-- conda install -c conda-forge python-socketio <br />
+-- conda install -c conda-forge eventlet <br />
+-- conda install -c conda-forge tensorflow <br />
+-- conda install -c conda-forge keras <br />
+-- conda install -c anaconda pillow <br />
+-- conda install -c anaconda numpy <br />
+-- conda install -c conda-forge opencv
 
--------------------------
+## 3. Run the driver code ##
+-- python driver.py
 
+## 4. Open Udacity simulation
+Open "Simulation" in the directory and choose your prefered screen resolution and graphics quality. <br />
+(Recommend setting: <br />
+Screen Resolution: 800 x 600 <br />
+Graphics Quality: Fastest) <br /> <br />
+
+## 5. See my training result or train your own self-driving car
+select between two tracks
+* Choose "AUTONOMOUS MODE" to start seeing the car driving itself.
+* Choose "TRAINING MODE" and record the process for behavioural cloning. You will get the file "driving_log.csv". Push it to github with the name of repository as "Track". Modify the first line in self-driving_car.ipynb into the link to your "Track" repository, and run through all the code in self-driving_car.ipynb. Then back to step 3 and choose "AUTONOMOUS MODE" in step 5.
