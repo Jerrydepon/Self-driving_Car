@@ -6,7 +6,7 @@ Link: https://github.com/udacity/self-driving-car <br />
 ## 1. Clone my repository ##
 Use git clone to download my self-driving car repository into your directory. <br />
 ## 2. Download the necessary packages ##
-Make sure you have downloaded the packages:
+Make sure you have downloaded the packages: <br />
 *flask <br />
 *socketio <br />
 *eventlet <br />
@@ -14,16 +14,20 @@ Make sure you have downloaded the packages:
 *keras <br />
 *pillow <br />
 *numpy <br />
-*opencv <br />
-ex. (virtual environment)
-conda create --name myenviron
-conda activate myenviron
-conda install -c anaconda flask
-conda install -c conda-forge python-socketio
-conda install -c conda-forge eventlet
-conda install -c conda-forge tensorflow
-conda install -c conda-forge keras
-conda install -c anaconda pillow
-conda install -c anaconda numpy
+*opencv <br /> <br />
+
+-------------------------
+(packages downloading step for virtual environment)
+conda create --name myenviron <br />
+conda activate myenviron <br />
+conda install -c anaconda flask <br />
+conda install -c conda-forge python-socketio <br />
+conda install -c conda-forge eventlet <br />
+conda install -c conda-forge tensorflow <br />
+conda install -c conda-forge keras <br />
+conda install -c anaconda pillow <br />
+conda install -c anaconda numpy <br />
 conda install -c conda-forge opencv
+
+-------------------------
 
