@@ -53,3 +53,5 @@ Select between two tracks and choose one action below depending on your purpose.
 6. Batch generator -- Create augmented images on the fly. <br />
 7. Train the neural network. ("Keras") <br />
 8. Visulize the training result. <br />
+
+![alt text](https://miro.medium.com/proxy/1*aHxbc87TgSJV3VWDa98lQQ.jpeg)
