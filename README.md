@@ -40,6 +40,16 @@ Screen Resolution: 800 x 600 <br />
 Graphics Quality: Fastest) <br /> <br />
 
 ## 5. See my training result or train your own self-driving car
-select between two tracks
+Select between two tracks and choose one action below depending on your purpose.
 * Choose "AUTONOMOUS MODE" to start seeing the car driving itself.
-* Choose "TRAINING MODE" and record the process for behavioural cloning. You will get the file "driving_log.csv". Push it to github with the name of repository as "Track". Modify the first line in self-driving_car.ipynb into the link to your "Track" repository, and run through all the code in self-driving_car.ipynb. Then back to step 3 and choose "AUTONOMOUS MODE" in step 5.
+* Choose "TRAINING MODE" and record the process for behavioural cloning. You will get the file "driving_log.csv". Push it to github with the name of repository as "Track". Modify the first line in "self-driving_car.ipynb" into the link to your "Track" repository, and run through all the code in "self-driving_car.ipynb". Then back to step 3 and choose "AUTONOMOUS MODE" in step 5.
+
+# Process in "self-driving_car.ipynb"
+1. Read in the data from manual training of Audacity. <br />
+2. Balancing the data by removing data with steering count exceeding the limit. <br />
+3. Load steering data. <br />
+4. Split into training & validation set. ("sklearn") <br />
+5. Preprocessing images. (using "augmenters" from "imgaug" library) <br />
+6. Batch generator -- Create augmented images on the fly. <br />
+7. Train the neural network. ("Keras") <br />
+8. Visulize the training result. <br />
