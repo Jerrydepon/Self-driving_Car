@@ -18,7 +18,7 @@ Make sure you have downloaded the packages: <br />
 *opencv 
 
 -------------------------
-(example: packages downloading step for virtual environment)
+(example for packages download in virtual environment)
 -- conda create --name myenviron <br />
 -- conda activate myenviron <br />
 -- conda install -c anaconda flask <br />
