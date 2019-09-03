@@ -3,18 +3,18 @@ It is a behavioural cloning self-driving car simulation based on the environment
 Link: https://github.com/udacity/self-driving-car <br />
 
 # Steps to see my training result
-1. Clone my repository <br />
+## 1. Clone my repository ##
 Use git clone to download my self-driving car repository into your directory. <br />
-2. Download the necessary packages <br />
+## 2. Download the necessary packages ##
 Make sure you have downloaded the packages:
-*flask
-*socketio
-*eventlet
-*tensorflow
-*keras
-*pillow
-*numpy
-*opencv
+*flask <br />
+*socketio <br />
+*eventlet <br />
+*tensorflow <br />
+*keras <br />
+*pillow <br />
+*numpy <br />
+*opencv <br />
 ex. (virtual environment)
 conda create --name myenviron
 conda activate myenviron
