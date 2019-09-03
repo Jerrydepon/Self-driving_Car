@@ -31,6 +31,7 @@ Make sure you have downloaded the packages: <br />
 -- conda install -c conda-forge opencv
 
 ### 3. Run the driver code ###
+(You can change the number of "speed_limit" to see what will happen)
 -- python driver.py
 
 ### 4. Open Udacity simulation ###
