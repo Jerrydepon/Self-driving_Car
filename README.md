@@ -54,4 +54,4 @@ Select between two tracks and choose one action below depending on your purpose.
 7. Train the neural network. ("Keras") <br />
 8. Visulize the training result. <br />
 
-![alt text](https://miro.medium.com/proxy/1*aHxbc87TgSJV3VWDa98lQQ.jpeg)
+![alt text](https://i.ytimg.com/vi/nbVoUx6fCeo/maxresdefault.jpg)
