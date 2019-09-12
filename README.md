@@ -1,6 +1,6 @@
 # Self-driving-Car
 It is a behavioural cloning self-driving car simulation based on the environment of Audacity. <br />
-Link: https://github.com/udacity/self-driving-car <br />
+https://github.com/udacity/self-driving-car <br />
 
 ## Steps to see my training result ##
 ### 1. Clone my repository ###
