@@ -36,9 +36,9 @@ Make sure you have downloaded the packages: <br />
 
 ### 4. Open Udacity simulation ###
 Open "Simulation" in the directory and choose your prefered screen resolution and graphics quality. <br />
-(Recommend setting: <br />
+Recommend setting: <br />
 - Screen Resolution: 800 x 600 <br />
-- Graphics Quality: Fastest)
+- Graphics Quality: Fastest
 
 ### 5. See my training result or train your own self-driving car ###
 Select between two tracks and choose one action below depending on your purpose.
