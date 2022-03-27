@@ -8,14 +8,14 @@ Use git clone to download my self-driving car repository into your local directo
 
 ### 2. Download the necessary packages ###
 Make sure you have downloaded the packages: <br />
-*flask <br />
-*socketio <br />
-*eventlet <br />
-*tensorflow <br />
-*keras <br />
-*pillow <br />
-*numpy <br />
-*opencv 
+* flask <br />
+* socketio <br />
+* eventlet <br />
+* tensorflow <br />
+* keras <br />
+* pillow <br />
+* numpy <br />
+* opencv 
 
 -------------------------
 (example for packages download in virtual environment) <br />
